@@ -1,0 +1,193 @@
+2017/11/28 15:51:59 [notice] 6316#1248: signal process started
+2017/11/28 15:55:05 [notice] 12580#22268: signal process started
+2017/11/28 15:56:01 [notice] 10868#18160: signal process started
+2017/11/28 15:56:17 [notice] 16956#9320: signal process started
+2017/11/28 15:56:50 [notice] 7216#6712: signal process started
+2017/11/28 15:59:34 [notice] 14408#17480: signal process started
+2017/11/28 16:00:23 [notice] 2192#17196: signal process started
+2017/11/28 16:56:54 [error] 2812#4060: *4 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000"
+2017/11/28 16:56:54 [error] 2812#4060: *6 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000"
+2017/11/28 17:07:49 [notice] 2040#3220: signal process started
+2017/11/28 17:07:50 [notice] 128#820: signal process started
+2017/11/28 17:07:50 [error] 128#820: CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/11/28 17:08:04 [notice] 4796#1980: signal process started
+2017/11/28 17:10:07 [notice] 4388#5024: signal process started
+2017/11/28 17:10:10 [notice] 4664#280: signal process started
+2017/11/28 17:10:11 [notice] 4648#648: signal process started
+2017/11/28 17:10:19 [notice] 1556#2028: signal process started
+2017/11/28 17:10:21 [notice] 4464#4476: signal process started
+2017/11/28 17:10:21 [error] 4464#4476: CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/11/28 17:10:30 [notice] 4220#4244: signal process started
+2017/11/28 17:10:30 [error] 4220#4244: CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2017/11/28 17:14:13 [notice] 4524#2172: signal process started
+2017/11/28 17:14:46 [notice] 1204#4684: signal process started
+2017/11/28 17:20:49 [notice] 1900#2468: signal process started
+2017/11/28 17:22:14 [notice] 3552#1260: signal process started
+2017/11/28 17:22:41 [notice] 4168#140: signal process started
+2017/11/28 17:23:17 [notice] 1948#1044: signal process started
+2017/11/28 17:24:23 [notice] 4664#1588: signal process started
+2017/11/28 17:24:56 [notice] 4964#1860: signal process started
+2017/11/28 17:25:00 [notice] 1504#4116: signal process started
+2017/11/28 17:26:41 [notice] 4304#1412: signal process started
+2017/11/28 17:27:56 [notice] 4136#4952: signal process started
+2017/11/28 17:28:50 [notice] 3400#2340: signal process started
+2017/11/28 17:30:36 [notice] 3324#4144: signal process started
+2017/11/28 17:32:17 [notice] 2344#2676: signal process started
+2017/11/28 17:32:42 [notice] 4552#2484: signal process started
+2017/11/28 17:32:59 [notice] 1900#4960: signal process started
+2017/11/28 17:33:55 [notice] 420#4756: signal process started
+2017/11/28 17:34:06 [notice] 4396#4752: signal process started
+2017/11/28 17:34:09 [notice] 4052#940: signal process started
+2017/11/28 17:35:17 [notice] 2688#988: signal process started
+2017/11/28 17:36:06 [notice] 4976#968: signal process started
+2017/11/28 17:37:12 [notice] 1504#4436: signal process started
+2017/11/28 17:37:55 [notice] 2324#4996: signal process started
+2017/11/28 17:38:14 [notice] 1980#800: signal process started
+2017/11/28 17:38:27 [notice] 3532#4160: signal process started
+2017/11/28 17:38:46 [notice] 3360#3944: signal process started
+2017/11/28 17:39:28 [notice] 4836#4248: signal process started
+2017/11/28 17:39:43 [notice] 4172#2468: signal process started
+2017/11/28 17:41:57 [notice] 968#4976: signal process started
+2017/11/28 17:49:17 [notice] 4812#4420: signal process started
+2017/11/28 17:49:57 [notice] 964#1508: signal process started
+2017/11/28 17:50:20 [notice] 1864#4828: signal process started
+2017/11/28 17:51:19 [notice] 3484#2172: signal process started
+2017/11/28 17:51:31 [notice] 4804#4884: signal process started
+2017/11/28 17:51:46 [notice] 2484#3388: signal process started
+2017/11/28 17:52:33 [notice] 1896#4772: signal process started
+2017/11/28 17:53:19 [notice] 988#648: signal process started
+2017/11/28 17:54:42 [notice] 3352#2192: signal process started
+2017/11/28 17:54:59 [notice] 4944#2344: signal process started
+2017/11/28 17:55:17 [notice] 4784#1876: signal process started
+2017/11/28 17:55:37 [notice] 2992#4580: signal process started
+2017/11/28 17:58:17 [notice] 3008#420: signal process started
+2017/11/28 17:58:40 [notice] 4200#4392: signal process started
+2017/11/28 17:59:11 [notice] 3892#964: signal process started
+2017/11/28 18:00:07 [notice] 3388#4980: signal process started
+2017/11/28 18:00:35 [notice] 4244#1376: signal process started
+2017/12/05 19:19:31 [error] 1948#3272: *1 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000"
+2017/12/05 21:35:09 [error] 1948#3272: *487 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=4097&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=4097&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *487 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=4097&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=4097&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *495 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=4475367&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=4475367&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *495 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=4475367&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=4475367&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *489 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=2244981&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=2244981&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *489 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=2244981&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=2244981&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *491 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=1845010&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=1845010&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *491 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=1845010&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=1845010&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *493 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=1031151&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=1031151&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *493 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=1031151&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=1031151&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *484 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=3692452&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=3692452&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2017/12/05 21:35:09 [error] 1948#3272: *484 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_EVENTS_TEACHER_JSON?p_id_teacher=3692452&time_from=1512000000&time_to=1512086400 HTTP/1.1", upstream: "http://80.92.232.98:80/ias/app/tt//P_API_EVENTS_TEACHER_JSON?p_id_teacher=3692452&time_from=1512000000&time_to=1512086400", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:03:20 [error] 4212#4272: *1 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000"
+2018/01/11 23:22:15 [notice] 4704#4236: signal process started
+2018/01/11 23:22:26 [notice] 3104#2568: signal process started
+2018/01/11 23:33:14 [notice] 2452#4368: signal process started
+2018/01/11 23:41:22 [emerg] 1108#696: duplicate location "/" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:48
+2018/01/11 23:41:51 [notice] 4260#4380: signal process started
+2018/01/11 23:45:53 [notice] 4544#3544: signal process started
+2018/01/11 23:46:55 [notice] 2896#2640: signal process started
+2018/01/11 23:48:01 [notice] 2768#4828: signal process started
+2018/01/11 23:48:03 [error] 4212#4272: *34 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/cors" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /cors HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:49:03 [notice] 4004#1692: signal process started
+2018/01/11 23:49:06 [error] 4212#4272: *34 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/cors" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /cors HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:49:33 [error] 4212#4272: *34 "C:\Users\Jasmin.dorden\Downloads\server/html/cors/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /cors/ HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:50:29 [notice] 236#4536: signal process started
+2018/01/11 23:50:32 [error] 4212#4272: *34 "C:\Users\Jasmin.dorden\Downloads\server/html/cors/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /cors/ HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:51:04 [error] 4212#4272: *35 "C:\Users\Jasmin.dorden\Downloads\server/html/cors/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /cors/ HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:51:47 [error] 4212#4272: *36 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/ias/app/tt/f" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /ias/app/tt/f?p=778:1 HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:54:55 [notice] 532#4468: signal process started
+2018/01/11 23:54:59 [error] 4212#4272: *40 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:56:12 [notice] 1956#4896: signal process started
+2018/01/11 23:56:18 [error] 4212#4272: *42 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:57:00 [error] 4212#4272: *42 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:57:41 [notice] 32#4708: signal process started
+2018/01/11 23:57:43 [error] 4212#4272: *42 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/11 23:58:56 [error] 4212#4272: *44 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/ias/app/tt/f" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /ias/app/tt/f?p=778:1 HTTP/1.1", host: "localhost:3000"
+2018/01/12 00:01:45 [notice] 4988#336: signal process started
+2018/01/12 00:01:52 [error] 4212#4272: *46 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:03:30 [notice] 3316#4996: signal process started
+2018/01/12 00:03:33 [error] 4212#4272: *48 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:03:50 [emerg] 96#4808: host not found in upstream "cist.nu" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:53
+2018/01/12 00:04:19 [notice] 3084#4804: signal process started
+2018/01/12 00:04:21 [error] 4212#4272: *48 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:04:36 [notice] 1996#4644: signal process started
+2018/01/12 00:04:41 [error] 4212#4272: *48 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:05:32 [error] 4212#4272: *48 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:05:52 [emerg] 4576#4568: host not found in upstream "cist.nure.u" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:53
+2018/01/12 00:06:05 [error] 4212#4272: *48 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:06:08 [notice] 4684#5004: signal process started
+2018/01/12 00:06:10 [error] 4212#4272: *48 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /now HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:07:05 [error] 4212#4272: *48 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now/fuck" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /now/fuck HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:07:15 [error] 4212#4272: *48 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now/fuck" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /now/fuck HTTP/1.1", host: "localhost:3000"
+2018/01/12 00:10:20 [error] 4212#4272: *57 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now/fuck" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /now/fuck HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:11:35 [notice] 1556#4524: signal process started
+2018/01/12 00:11:46 [error] 4212#4272: *59 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now/ru" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /now/ru HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:13:02 [notice] 1748#1880: signal process started
+2018/01/12 00:13:05 [error] 4212#4272: *62 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/now/ru/ru" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /now/ru/ru HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:13:57 [notice] 4872#2168: signal process started
+2018/01/12 00:14:04 [error] 4212#4272: *62 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/faq" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /faq HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:15:17 [error] 4212#4272: *66 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/faq" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /faq HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:17:13 [notice] 4608#1560: signal process started
+2018/01/12 00:17:34 [error] 4212#4272: *69 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/faq" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /faq HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 00:17:38 [error] 4212#4272: *69 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/faq" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /faq HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:03:56 [error] 1604#4904: *1 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000"
+2018/01/12 10:03:56 [error] 1604#4904: *1 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000"
+2018/01/12 10:04:20 [notice] 2628#4652: signal process started
+2018/01/12 10:04:39 [error] 3368#1708: *2 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:04:39 [error] 3368#1708: *2 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:04:39 [error] 3368#1708: *3 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/cist/api/P_API_FACULTIES_JSON" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_FACULTIES_JSON HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:11:17 [error] 3368#1708: *4 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:11:17 [error] 3368#1708: *4 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:11:17 [error] 3368#1708: *5 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/cist/api/P_API_FACULTIES_JSON" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /cist/api/P_API_FACULTIES_JSON HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:12:51 [emerg] 2952#5056: unexpected "}" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:54
+2018/01/12 10:12:59 [emerg] 3060#2572: unexpected "}" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:54
+2018/01/12 10:13:01 [notice] 4560#1400: signal process started
+2018/01/12 10:13:08 [error] 3100#1220: *7 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:13:08 [error] 3100#1220: *7 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:14:38 [notice] 1148#1616: signal process started
+2018/01/12 10:14:42 [error] 1364#4664: *10 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:14:42 [error] 1364#4664: *10 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:15:23 [notice] 4276#3204: signal process started
+2018/01/12 10:15:25 [error] 5048#2576: *14 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/http://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:15:25 [error] 5048#2576: *14 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/http://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:15:39 [notice] 4588#2536: signal process started
+2018/01/12 10:15:41 [error] 2804#4908: *17 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:15:41 [error] 2804#4908: *17 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:35:20 [error] 2804#4908: *19 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:35:20 [error] 2804#4908: *19 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:35:31 [error] 2804#4908: *20 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:35:31 [error] 2804#4908: *20 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:35:57 [emerg] 4932#2568: unexpected "}" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:51
+2018/01/12 10:36:08 [emerg] 100#2764: unexpected "}" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:51
+2018/01/12 10:41:16 [emerg] 4388#4956: unknown directive "proxy_set_head" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:50
+2018/01/12 10:41:32 [emerg] 3400#3344: unexpected "}" in C:\Users\Jasmin.dorden\Downloads\server/conf/nginx.conf:55
+2018/01/12 10:41:42 [notice] 4416#1616: signal process started
+2018/01/12 10:41:46 [error] 1704#1348: *25 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:41:46 [error] 1704#1348: *25 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:46:31 [notice] 148#4260: signal process started
+2018/01/12 10:46:34 [error] 2536#3420: *30 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:46:34 [error] 2536#3420: *30 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:47:23 [error] 2536#3420: *29 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:47:23 [error] 2536#3420: *29 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:47:49 [error] 2536#3420: *32 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:47:49 [error] 2536#3420: *32 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:48:10 [notice] 432#4204: signal process started
+2018/01/12 10:48:14 [error] 2964#1148: *38 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:48:14 [error] 2964#1148: *38 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:48:40 [notice] 4976#3552: signal process started
+2018/01/12 10:48:42 [error] 3528#2592: *43 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:48:42 [error] 3528#2592: *43 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:51:53 [notice] 2760#2092: signal process started
+2018/01/12 10:51:58 [error] 4452#4844: *49 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:51:58 [error] 4452#4844: *49 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:52:17 [notice] 2140#4560: signal process started
+2018/01/12 10:52:20 [error] 2392#2044: *53 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/12 10:52:20 [error] 2392#2044: *53 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/15 21:52:28 [error] 2012#2220: *1 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/15 21:52:28 [error] 2012#2220: *1 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/15 21:52:28 [error] 2012#2220: *2 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000"
+2018/01/15 21:52:28 [error] 2012#2220: *2 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000"
+2018/01/15 21:52:36 [error] 2012#2220: *3 invalid URL prefix in "localhost", client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/15 21:52:36 [error] 2012#2220: *3 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/50x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /posts/https://www.google.com HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/15 21:54:36 [error] 2012#2220: *9 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/dist/bundle.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /dist/bundle.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2018/01/15 21:54:36 [error] 2012#2220: *9 CreateFile() "C:\Users\Jasmin.dorden\Downloads\server/html/dist/bundle.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /dist/bundle.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
