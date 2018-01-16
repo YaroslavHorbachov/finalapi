@@ -13,7 +13,7 @@ In order to deploy the project on your personal computer,you need <strong>node a
 						
 						server/conf/nginx.conf
 					
-					or just start this simple server from:<br>
+					or just start this simple server from:
 						
 						server/conf/nginx.exe
 
