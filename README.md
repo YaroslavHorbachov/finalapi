@@ -1,20 +1,24 @@
-In order to deploy the project on your personal computer,you need <strong>node and npm</strong>.<br>
+In order to deploy the project on your personal computer,you need <strong>node, npm and nginx server</strong>.<br>
 <strong>1</strong> : To perform the initialization of the libraries and project dependencies,<br> 
                         
-                        cd path/to/dir
+                       				 cd path/to/dir
                         
-                        npm install
+                       				 npm install
                         
 <strong>2</strong> : In order to get a webpack bundle, you need to run<br>
                         
-                        npm run build 
+                       				 npm run build 
 
-<strong>3</strong>:  If you already have nginx server, you can use only our configuration file from: <br>
+<strong>3</strong>:  If you already have nginx server, you can use our configuration file and source project from: <br>
 						
 						server/conf/nginx.conf
-					
-					or just start this simple server from:
 						
+						server/http/[all]
+					
+		
+		<pre>If you haven't nginx server from different reasons, just start server from:</pre>
+		
+		
 						server/conf/nginx.exe
 
                        
@@ -22,4 +26,4 @@ In order to deploy the project on your personal computer,you need <strong>node a
 
 This is all actions for to deploy a project on your computer<br>
 
-Please use this [JSONPlaceholder](https://jsonplaceholder.typicode.com/) or [CIST API](http://cist.nure.ua/i/ias/doc/api/native_API.pdf) as data.
+Please use this [JSONPlaceholder](https://jsonplaceholder.typicode.com/) or [CIST API](http://cist.nure.ua/i/ias/doc/api/native_API.pdf) as test data.
